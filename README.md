@@ -1,6 +1,14 @@
 
 ![image](https://user-images.githubusercontent.com/43872050/196559217-707989b8-c368-4c85-932c-f2b5e377b6dd.png)
 
+###                                            Electrical & Computer Engineering & Computer Science (ECECS)
+
+###                                                              TECHNICAL REPORT
+
+![image](https://user-images.githubusercontent.com/43872050/196559434-6dbda1e1-79c6-456e-8e3a-deac0e657d47.png)
+
+# FALL 2022
+
 # Netflix-Recommendation-System
 
 ## Executive Summary
