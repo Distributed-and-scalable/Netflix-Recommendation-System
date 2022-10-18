@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/43872050/196559217-707989b8-c368-4c85-932c-f2b5e377b6dd.png)
+
 # Netflix-Recommendation-System
 
 ## Executive Summary
