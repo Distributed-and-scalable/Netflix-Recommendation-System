@@ -30,3 +30,11 @@ Pitch Deck Video: https://youtu.be/LY7zuSqkryo
 ## Introductory Section
 
 Progress in data science has had an impact on the manner in which we convey, share, and get data. Consider how big data has changed our television and film encounters. Organizations like Netflix gather great data on various interests from various places to make recommendations for clients with the assistance of a tool known as recommender engines. The requirement for suggestion engines and personalization is a consequence of a phenomenon known as the "era of abundance". We have a huge variety of decisions in light of huge amounts of data that are accessible through the Web.
+
+
+Contributions/References
+- Dataset: https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset?resource=download
+- GitHub Repository: https://github.com/orgs/Distributed-and-scalable/teams/team-04
+- https://research.netflix.com/research-area/recommendations
+- https://www.codecademy.com/article/how-netflix-recommendation-works-data-science
+
