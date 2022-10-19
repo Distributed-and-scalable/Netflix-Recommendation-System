@@ -25,7 +25,7 @@ We are planning to use the data generated in the past by the customers to provid
 
 The main objective of the project is to analyze and understand the insights from Netflix. This project intends to use the concepts of Cloud Computing and PySpark. Pearson Correlation Coefficient, Alternating Least Squares metrics, and Collaborative Filtering will be used on Netflix data to achieve the goal with the assistance of PySpark. Knowledge and support of Machine Learning Technologies, and Python libraries like Matplotlib, Pandas, Numpy, Scikit-learn, etc. will be used to accomplish the tasks in the project.
 
-****Elevator pitch video link here
+# Pitch Deck Video: https://youtu.be/LY7zuSqkryo
 
 ## Introductory Section
 
